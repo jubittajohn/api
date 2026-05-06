@@ -201,9 +201,6 @@
                         "name": "MultiDiskSetup"
                     },
                     {
-                        "name": "MutatingAdmissionPolicy"
-                    },
-                    {
                         "name": "NetworkConnect"
                     },
                     {
@@ -318,6 +315,9 @@
                     },
                     {
                         "name": "MutableCSINodeAllocatableCount"
+                    },
+                    {
+                        "name": "MutatingAdmissionPolicy"
                     },
                     {
                         "name": "NewOLM"
